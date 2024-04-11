@@ -1,2 +1,1 @@
-#COUNTER
-description: A simple counter that you can increase, decrease and reset the counter.
+Here are 40 exercises of javascript made by free-code-camp in order to improve my javascript abilities
